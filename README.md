@@ -10,6 +10,10 @@
  ## Rest API
     • Get Method
     • fetch Method
+
+## Flutter with Firebase
+    • Facebook Authentication
+ 
  
 ## Drawer
     • Custom Drawer
