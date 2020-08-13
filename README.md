@@ -5,6 +5,7 @@
     • Google Map with Multiple Marker
     • Google Map with Polyline
     • Dynamic latitude and longitude
+    • Custom InfoWindow
  
  ## Rest API
     • Get Method
