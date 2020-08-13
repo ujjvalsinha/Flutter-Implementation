@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836355930890",
+    "firebase_url": "https://flutter-intern-bc12c.firebaseio.com",
+    "project_id": "flutter-intern-bc12c",
+    "storage_bucket": "flutter-intern-bc12c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836355930890:android:c901a1fee4b58d5e9898f3",
+        "android_client_info": {
+          "package_name": "com.example.tushar_nikam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836355930890-vuarijragkqo8trvgrcpno6aei9029fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tushar_nikam",
+            "certificate_hash": "5827d934e7200b2b3a1d99f87f243742de135449"
+          }
+        },
+        {
+          "client_id": "836355930890-hc845he0mbdam49t7inp4uapm9ipf5vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKA6copF12GUCftWogJkQro05wpRWrPMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836355930890-hc845he0mbdam49t7inp4uapm9ipf5vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
