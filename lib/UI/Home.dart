@@ -19,7 +19,7 @@ class _HomeState extends State<Home> {
 
   List pages = [
     Dashboard(),
-    Tracking(),
+    Tracking(), 
     Account(),
   ];
 
