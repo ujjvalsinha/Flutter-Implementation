@@ -1,6 +1,7 @@
 # Flutter Implementation
 
- ## Google Map 
+## Google Map
+
     • Simple Google Map
     • Google Map with Multiple Marker
     • Google Map with Polyline
@@ -8,13 +9,13 @@
     • Custom InfoWindow
  
  ## Rest API
+
     • Get Method
     • fetch Method
  
 ## Drawer
+
     • Custom Drawer
-
-
 
 
 For help getting started with Flutter, view our
