@@ -12,6 +12,10 @@
 
     • Get Method
     • fetch Method
+
+## Flutter with Firebase
+    • Facebook Authentication
+ 
  
 ## Drawer
 
