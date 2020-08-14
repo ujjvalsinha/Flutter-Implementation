@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:vesatogo/Widget/CustomBox.dart';
+import 'package:vesatogo/Example2/Widget/CustomBox.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 
 
