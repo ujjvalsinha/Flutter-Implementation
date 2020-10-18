@@ -29,16 +29,13 @@ class _HomePageState extends State<HomePage> {
             UserAccountsDrawerHeader(
                 arrowColor: Colors.black,
                 decoration: BoxDecoration(
-                  color: Colors.indigo,
+                  color: Colors.orange,
                 ),
                 accountName: Text("Tushar Nikam"),
                 accountEmail: Text("champ96k@gmail.com"),
                 currentAccountPicture: CircleAvatar(
                   backgroundColor: Colors.redAccent,
-                  child: Icon(
-                    Icons.person,
-                    size: 42.0,
-                  ),
+                  backgroundImage: NetworkImage("https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",),
                 )),
             ListTile(
               title: Text("Dashboard"),
@@ -158,8 +155,10 @@ class _HomePageState extends State<HomePage> {
             image: "images/1.png",
             date: "12 Oct 2020 - 23 Oct 2020", 
             title: "Stock Information", 
+            subText1: "200",
             subText2: "200",
            subText3: "18000",
+            subText4: "3022",
             subTextDesc1: "Total Stock", 
             subTextDesc2: "Complted",
             subTextDesc3: "Pending",
